@@ -1,0 +1,6 @@
+{
+  "name": "দিগন্ত অ্যারেনা",
+  "description": "বাংলাদেশের প্রিমিয়াম ই-স্পোর্টস টুর্নামেন্ট প্ল্যাটফর্ম — দিগন্ত অ্যারেনা (Diganta Arena)। ফ্রি ফায়ার, পাবজি মোবাইল, ব্লাড স্ট্রাইক এবং ই-ফুটবল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
